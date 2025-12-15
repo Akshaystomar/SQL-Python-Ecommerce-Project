@@ -30,4 +30,4 @@ This project helped me improve my SQL querying, Python data analysis, and data v
 
 Author - 
 Akshay Tomar
-Aspiring Data Analyst
+(Aspiring Data Analyst)
