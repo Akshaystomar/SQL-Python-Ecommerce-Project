@@ -12,10 +12,10 @@ Python (Pandas, Matplotlib, Seaborn)
 Jupyter Notebook
 
 What I Did - 
+Imported CSV files into MySQL database for analysis
 Connected MySQL database with Python
 Wrote SQL queries to fetch data
 Loaded query results into Pandas DataFrames
-Analyzed data using Pandas
 Created basic charts for insights
 
 Analysis Includes -
