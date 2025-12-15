@@ -24,7 +24,7 @@ Category-wise revenue
 Monthly and yearly trends
 Customer and seller analysis
 
-Learning Outcome - 
+Key Learning - 
 This project helped me improve my SQL querying, Python data analysis, and data visualization skills.
 
 
